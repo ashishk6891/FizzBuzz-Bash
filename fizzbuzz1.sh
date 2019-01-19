@@ -1,3 +1,5 @@
+#FizzBuzz Programme
+
 #!/bin/bash
 
 for ((i=1;i<=100;i++))
@@ -15,4 +17,3 @@ else
 echo "$i"
 fi
 done
-smhdcvbjhv
