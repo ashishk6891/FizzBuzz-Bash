@@ -17,3 +17,7 @@ else
 echo "$i"
 fi
 done
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8c058d4b0ae438a5ae9e5c4684e3effc10d26e9
