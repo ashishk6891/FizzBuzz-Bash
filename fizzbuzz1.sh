@@ -17,3 +17,7 @@ else
 echo "$i"
 fi
 done
+<<<<<<< HEAD
+=======
+
+>>>>>>> Update fizzbuzz1.sh
