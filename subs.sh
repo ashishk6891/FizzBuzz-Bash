@@ -5,3 +5,4 @@ b=8
 
 sub=$((a-b))
 echo $sub
+echo "hello"
