@@ -1,4 +1,4 @@
-#FizzBuzz Programme
+#FizzBuzz Programm
 
 #!/bin/bash
 
